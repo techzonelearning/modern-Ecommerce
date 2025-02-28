@@ -8,6 +8,7 @@ const App = () => {
   return (
     <>
       <Toaster position="top-right" reverseOrder={false} />
+      <h1>Hello</h1>
       <Navbar />
       <Router />
       <Footer />
